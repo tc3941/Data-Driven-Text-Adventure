@@ -1,0 +1,93 @@
+[Commons]
+Name	The Commons
+Location	You're at The Commons. North of here is the parking lot, not really worth visiting.-East is the Resident Halls. South is the Sun Dial.
+Details	You look around and grab a bit to eat. The food is pretty good in comparison to Gracies. Where are you going next?
+NorthRoom
+EastRoom	Resident Halls, You travel Eastward to the Resident Halls the Dorms for RIT.
+SouthRoom	SunDial, You travel southward to the Sundial.
+WestRoom	+
+
+[Gordon]
+Name	The Gordon Field House
+Location	This is the Gordon Field House. Where most of the new student orintation is held.-South of here is walk way and Wellness center.
+Details	You look around and decide to hit the gym. You work out for a bit until you begin to feel exhausted. -Maybe you should move on to the next place?
+NorthRoom
+EastRoom
+SouthRoom	Gordon Field House WalkWay, You exit the field house and see the wellness center.-There is also a hand full of students walking the quarter mile.
+WestRoom	+
+
+[Gracies]
+Name	Gracies'
+Location	This is Gracies the bane of everyone who lives at resident halls existence.-North is the Sun Dial.
+Details	You look around and decide to grab a bit to eat. Gracies manages to have a lot of options and yet none at all.-Each option only being subpar so you decide to leave.
+NorthRoom	SunDial, You exit Gracies' as more disappointed than when you first walked in.-You notice a lot of people gather around the sun dial seems to be a common meeting place.+
+EastRoom
+SouthRoom
+WestRoom	+
+
+[Gym]
+Name	Gym
+Location	This is the Gym where people come and play sports of all kinds and work out.-South of here is the student center walkway.
+Details	You look around and notice some people playing volley ball. Not sure who is winning but there seems to be a decent size squad.
+NorthRoom
+EastRoom
+SouthRoom	Student Center WalkWay, You exit the gym and immediately see the Student Center.- You notice a decent amount of wind seems like this is a small wind tunnel.
+WestRoom	+
+
+
+[Resident Halls]
+Name	Resident Halls
+Location	This is the Resident Halls. Freshmen galor.-West of here is the Sun Dial.	
+Details	You look around and notice all of the windows only open a few inches.-Weird I wonder why they would need such windows at a college.
+NorthRoom
+EastRoom
+SouthRoom
+WestRoom	SunDial, You exit the Resident Halls and go to the sundial.-You notice a few other people did too.-Makes sense seeing this being the most popular meeting spot.
+
+[SAU]
+Name	Student Center
+Location	This is the Student Center. North is the walkway.-Continue across and you'll find the Gym where people play sports.
+Details	There is not much to do here but there is a gumball dispenser.-You start to chew the gumball but the flavor quickly fades.
+NorthRoom	Student Center WalkWay, You exit the Student Center and immediately see the Gym.- You notice a decent amount of wind seems like this is a small wind tunnel.
+EastRoom
+SouthRoom
+WestRoom	+
+
+[SunDial]
+Name	SunDial
+Location	North of here is the Commons. West will lead you to Gordon Field House and the Wellness Center.-South will bring you to Gracies. Dont go there. Finally East will bring you to the Resident Halls.-Which Resident Hall? Doesnt matter its not the one you're looking for.
+Details	You're at the Sun Dial in the middle of the residental halls. Also known as the beginning of the quarter mile.
+NorthRoom	The Commons, You walk past a few of the Resident Halls and notice a few people walking with you.-Seems like the best place to grab food near the dorms.
+EastRoom	Resident Halls, You head to the Resident Halls.-On the way in you notice the only trash can on the entire quarter mile.
+SouthRoom	Gracies', You enter Gracies' lounge and notice immediately its odd choice of music.-It seems to fluxuate from quiet and loud very frequently.
+WestRoom	Gordon Field House WalkWay, You began walking the quartermile towards academic side.+
+
+
+[WalkWay]
+Name	Gordon Field House WalkWay
+Location	This is the first stop on the quarter mile coming from the Resident Halls.-North is the Gordon Field House. South is the Wellness Center.-East is the Sun Dial. West continues into the school.
+Details	You look around for a second and are almost hit by someone on a bike.-You notice for a road that doesnt allow bikes and skateboards there does seem to have a lot of them
+NorthRoom	The Gordon Field House, You walk into the Gordon Field House.-You notice immediately some people playoing basketball.-But they seem to be in the middle of a game best not intervene.
+EastRoom	SunDial, You walk back to the Sun Dial and notice the leaves falling from the trees.-There are still people gathering around the Sun Dial.
+SouthRoom	The Wellness Center, You press the button on the door and enter the Wellcome Center.
+WestRoom	Student Center WalkWay, You contine down the quarter mile going further into the academic side of campus.+
+
+[WalkWay2]
+Name	Student Center WalkWay
+Location	This is the walkway that seperates the Gym and Student Center, hence the name.-North is the Gym. South is the Student Center and East is the other walkway.	
+Details	You look around and notice that several people are looking at you.-Maybe standing in the middle of a walkway and just looking around isnt the best idea
+NorthRoom	Gym, You enter the Gym.-There seems to be a few people in here already
+EastRoom	Gordon Field House WalkWay, You head down the quartermile towards residental side.
+SouthRoom	Student Center, You enter the Student Center and notice a few people at the desk.
+WestRoom	+
+
+[Wellness]
+Name	The Wellness Center
+Location	This is the place where most student comes to get therapy and pick up their medicine.-North is the Walkway and across from it is the Gordon Field house.
+Details	You look around and notice there is way too many people in here right now. Maybe you should come back later.
+NorthRoom	Gordon Field House WalkWay, You walk our of the Wellness Center back out onto the quartermile.
+EastRoom
+SouthRoom
+WestRoom	+
+
+
